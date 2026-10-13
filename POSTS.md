@@ -7,6 +7,24 @@ and the verdict. The review file has the claim, how it was checked and why.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7673918918855003406) | Worth knowing | 2026-08-26 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7671695716271557902) | Worth knowing | 2026-09-08 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@structurewebworks](https://www.tiktok.com/@structurewebworks/video/7673353459688574226) | Worth knowing | 2026-08-26 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@mattrwolfe](https://www.tiktok.com/@mattrwolfe/video/7678329956136520973) | Worth knowing | 2026-09-02 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@ayoships](https://www.instagram.com/p/DeUlQTQxv5O) | Worth knowing | 2026-10-12 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@jessautomates_](https://www.instagram.com/p/DeU-fc7jbk3) | Worth knowing | 2026-10-12 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@gurnoorsinghofficial](https://www.instagram.com/p/DeBasJgT4Qc) | Worth knowing | 2026-10-05 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@evolvingfrontier](https://www.instagram.com/p/DdUoIYfEzfV) | Worth knowing | 2026-10-06 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@kevbuildsapps](https://www.instagram.com/p/DdP6PGOCSQj) | Worth knowing | 2026-09-16 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@valeridoesai](https://www.instagram.com/p/Dct6Op3n6Zd) | Worth knowing | 2026-09-16 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@alexanderaeswan](https://www.instagram.com/p/Dcscr7oTRkI) | Worth knowing | 2026-09-16 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@chatgptricks](https://www.instagram.com/p/DcrWGiNnTNK) | Worth knowing | 2026-09-16 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@chatgptricks](https://www.instagram.com/p/DcjrSMVHbuO) | Worth knowing | 2026-08-28 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DcjbBtYO1iM) | Worth knowing | 2026-09-16 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@molllieeloise](https://www.instagram.com/p/DcgJcxlmTkM) | Worth knowing | 2026-08-28 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@codecraftman_](https://www.instagram.com/p/DcDCPatMLz5) | Worth knowing | 2026-08-26 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@wassimyounes_](https://www.instagram.com/p/DbtJytsumrO) | Worth knowing | 2026-09-16 |
+| [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@angelotrifanoff.ai](https://www.instagram.com/p/Db2FJERS0N_) | Worth knowing | 2026-10-05 |
 | [2026-10-13](reviews/2026-10-13.md) | TikTok | [@your.aimentor](https://www.tiktok.com/@your.aimentor/video/7695413629574728991) | Already covered |  |
 | [2026-10-13](reviews/2026-10-13.md) | Instagram | [@j.t.rivard](https://www.instagram.com/p/DeZ_QCMKLis) | Rejected |  |
 | [2026-10-13](reviews/2026-10-13.md) | Instagram | [@theaifield](https://www.instagram.com/p/DeZ4ckxjBp_) | Rejected |  |
@@ -15,9 +33,7 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@gabrieljudah_](https://www.instagram.com/p/DeW2448I2sN) | Rejected |  |
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@theericmichaud](https://www.instagram.com/p/DeV2n53gLgf) | Rejected |  |
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DeUvb21jhH_) | Rejected |  |
-| [2026-10-12](reviews/2026-10-12.md) | Instagram | [@ayoships](https://www.instagram.com/p/DeUlQTQxv5O) | Rejected |  |
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@maxtymosh](https://www.instagram.com/p/DeUfACdx2-6) | Already covered |  |
-| [2026-10-12](reviews/2026-10-12.md) | Instagram | [@jessautomates_](https://www.instagram.com/p/DeU-fc7jbk3) | Rejected |  |
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@charlieautomates](https://www.instagram.com/p/DeSW9GFBQvF) | Already covered |  |
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@charles.zhengg](https://www.instagram.com/p/DeON0MOB5oi) | Rejected |  |
 | [2026-10-12](reviews/2026-10-12.md) | Instagram | [@aiwithremy](https://www.instagram.com/p/DeMoc7MxFPx) | Already covered |  |
@@ -29,17 +45,14 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-10-11](reviews/2026-10-11.md) | Instagram | [@zachdoesai_](https://www.instagram.com/p/DeNAuqwtSeD) | Already covered |  |
 | [2026-10-06](reviews/2026-10-06.md) | Instagram | [@krudd.jr](https://www.instagram.com/p/DeHX34IxveJ) | Rejected |  |
 | [2026-10-06](reviews/2026-10-06.md) | Instagram | [@olliemckinlay](https://www.instagram.com/p/DeFG75XI1lJ) | Rejected |  |
-| [2026-10-06](reviews/2026-10-06.md) | Instagram | [@evolvingfrontier](https://www.instagram.com/p/DdUoIYfEzfV) | Already covered |  |
 | [2026-10-06](reviews/2026-10-06.md) | Instagram | [@codrkai](https://www.instagram.com/p/Dc1-D4lvE22) | Rejected |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@betoteachesecom](https://www.instagram.com/p/DeDcLbeyI3i) | Rejected |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@taki.gpt](https://www.instagram.com/p/DeCOT9bBsEu) | Rejected |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@markpyvovarov](https://www.instagram.com/p/DeC26aTPIGG) | Recommended |  |
-| [2026-10-05](reviews/2026-10-05.md) | Instagram | [@gurnoorsinghofficial](https://www.instagram.com/p/DeBasJgT4Qc) | Rejected |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@opusjake](https://www.instagram.com/p/DeB6QU6N4Ec) | Rejected |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@austin.marchese](https://www.instagram.com/p/DeAne_MjMoi) | Rejected |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@aitechorigin](https://www.instagram.com/p/DdiGYPrDl-Q) | Already covered |  |
 | [2026-10-05](reviews/2026-10-05.md) | Instagram | [@connordavis.ai](https://www.instagram.com/p/Dd_RQL7FjxY) | Rejected |  |
-| [2026-10-05](reviews/2026-10-05.md) | Instagram | [@angelotrifanoff.ai](https://www.instagram.com/p/Db2FJERS0N_) | Rejected |  |
 | [2026-10-04](reviews/2026-10-04.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/Dd_7b41RsOx) | Already covered |  |
 | [2026-10-04](reviews/2026-10-04.md) | Instagram | [@eluna.ai](https://www.instagram.com/p/Dd-qRYGlm6T) | Rejected |  |
 | [2026-09-30](reviews/2026-09-30.md) | TikTok | [@stevemorinnyc](https://www.tiktok.com/@stevemorinnyc/video/7687043236430417182) | Recommended |  |
@@ -58,16 +71,11 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-09-30](reviews/2026-09-30.md) | Instagram | [@cooper.simson](https://www.instagram.com/p/DdVargvpEQ8) | Already covered |  |
 | [2026-09-30](reviews/2026-09-30.md) | Instagram | [@nick_saraev](https://www.instagram.com/p/Dc25mm-Mwy2) | Borderline |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@kevbuildsapps](https://www.instagram.com/p/DdQO3RQDcJ8) | Already covered |  |
-| [2026-09-16](reviews/2026-09-16.md) | Instagram | [@kevbuildsapps](https://www.instagram.com/p/DdP6PGOCSQj) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@murphmaxxing](https://www.instagram.com/p/DdHjCJeBazW) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/DdHJn-ZRpbd) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/Dcw7PqeRrI4) | Rejected |  |
-| [2026-09-16](reviews/2026-09-16.md) | Instagram | [@valeridoesai](https://www.instagram.com/p/Dct6Op3n6Zd) | Already covered |  |
-| [2026-09-16](reviews/2026-09-16.md) | Instagram | [@alexanderaeswan](https://www.instagram.com/p/Dcscr7oTRkI) | Rejected |  |
-| [2026-09-16](reviews/2026-09-16.md) | Instagram | [@chatgptricks](https://www.instagram.com/p/DcrWGiNnTNK) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@erictechpro](https://www.instagram.com/p/DcoU-a2D1uC) | Already covered |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@codingknowledge](https://www.instagram.com/p/DckZqWoEvlx) | Already covered |  |
-| [2026-09-16](reviews/2026-09-16.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DcjbBtYO1iM) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@raycfu](https://www.instagram.com/p/Dcj_mRRv5tv) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@austriangaul](https://www.instagram.com/p/Dcivr5EoQ4_) | Recommended |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/Dc_38AINdlW) | Rejected |  |
@@ -77,16 +85,13 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@nick_saraev](https://www.instagram.com/p/Dc25gfXMSE4) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@liamjohnston.ai](https://www.instagram.com/p/Dc1oIn8CyDW) | Recommended |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@joinbuildingwithai](https://www.instagram.com/p/Dc1cp4MhvKm) | Recommended |  |
-| [2026-09-16](reviews/2026-09-16.md) | Instagram | [@wassimyounes_](https://www.instagram.com/p/DbtJytsumrO) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@kyleherbel](https://www.instagram.com/p/DbqewopSHAj) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/DbV6ksERijY) | Rejected |  |
 | [2026-09-16](reviews/2026-09-16.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/DZ5R-8OxvUQ) | Rejected |  |
-| [2026-09-08](reviews/2026-09-08.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7671695716271557902) | Recommended |  |
 | [2026-09-08](reviews/2026-09-08.md) | TikTok | [@replace.so](https://www.tiktok.com/@replace.so/video/7678384284209646880) | Rejected |  |
 | [2026-09-07](reviews/2026-09-07.md) | TikTok | [@temmy_cx](https://www.tiktok.com/@temmy_cx/video/7677508330977283349) | Rejected |  |
 | [2026-09-07](reviews/2026-09-07.md) | TikTok | [@martiendejong_dev](https://www.tiktok.com/@martiendejong_dev/video/7681797746654727456) | Rejected |  |
 | [2026-09-06](reviews/2026-09-06.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7681744839406308621) | Rejected |  |
-| [2026-09-02](reviews/2026-09-02.md) | TikTok | [@mattrwolfe](https://www.tiktok.com/@mattrwolfe/video/7678329956136520973) | Rejected |  |
 | [2026-09-02](reviews/2026-09-02.md) | TikTok | [@githubvault](https://www.tiktok.com/@githubvault/video/7678884794742164756) | Rejected |  |
 | [2026-09-01](reviews/2026-09-01.md) | TikTok | [@mr.paidsocial](https://www.tiktok.com/@mr.paidsocial/video/7674101926191058190) | Flagged |  |
 | [2026-09-01](reviews/2026-09-01.md) | TikTok | [@build_in_public](https://www.tiktok.com/@build_in_public/video/7679967745647086881) | Recommended |  |
@@ -94,21 +99,16 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-08-30](reviews/2026-08-30.md) | TikTok | [@joshualevi.ai](https://www.tiktok.com/@joshualevi.ai/video/7677649519672069408) | Rejected |  |
 | [2026-08-28](reviews/2026-08-28.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7677607825593355533) | Recommended |  |
 | [2026-08-28](reviews/2026-08-28.md) | TikTok | [@cooper.simson](https://www.tiktok.com/@cooper.simson/video/7677010451061853456) | Recommended |  |
-| [2026-08-28](reviews/2026-08-28.md) | Instagram | [@chatgptricks](https://www.instagram.com/p/DcjrSMVHbuO) | Rejected |  |
 | [2026-08-28](reviews/2026-08-28.md) | Instagram | [@hasantoxr](https://www.instagram.com/p/DchGJybEzm5) | Rejected |  |
-| [2026-08-28](reviews/2026-08-28.md) | Instagram | [@molllieeloise](https://www.instagram.com/p/DcgJcxlmTkM) | Rejected |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@willfrancis24](https://www.tiktok.com/@willfrancis24/video/7673908739765767446) | Rejected |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@will.ai.m](https://www.tiktok.com/@will.ai.m/video/7675146261418233102) | Rejected |  |
-| [2026-08-26](reviews/2026-08-26.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7673918918855003406) | Recommended |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7673238561126190349) | Recommended |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7672467874090388750) | Rejected |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7665935477244972302) | Rejected |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7658855240933887246) | Rejected |  |
-| [2026-08-26](reviews/2026-08-26.md) | TikTok | [@structurewebworks](https://www.tiktok.com/@structurewebworks/video/7673353459688574226) | Recommended |  |
 | [2026-08-26](reviews/2026-08-26.md) | TikTok | [@claude.with.christelle](https://www.tiktok.com/@claude.with.christelle/video/7674049058247396639) | Already covered |  |
 | [2026-08-26](reviews/2026-08-26.md) | Instagram | [@eluna.ai](https://www.instagram.com/p/DceICd4Egtv) | Already covered |  |
 | [2026-08-26](reviews/2026-08-26.md) | Instagram | [@omedsharifii](https://www.instagram.com/p/DcIsx1ChxFa) | Already covered |  |
-| [2026-08-26](reviews/2026-08-26.md) | Instagram | [@codecraftman_](https://www.instagram.com/p/DcDCPatMLz5) | Already covered |  |
 | [2026-08-26](reviews/2026-08-26.md) | Instagram | [@varritech](https://www.instagram.com/p/DcAGHAcAFRE) | Already covered |  |
 | [2026-08-26](reviews/2026-08-26.md) | Instagram | [@alexpetkov.ai](https://www.instagram.com/p/Dbjbrs1MOcI) | Already covered |  |
 | [2026-08-26](reviews/2026-08-26.md) | Instagram | [@hypertech](https://www.instagram.com/p/DbjL9bfFT_T) | Rejected |  |

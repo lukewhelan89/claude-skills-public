@@ -13,6 +13,7 @@ and it passes a [SkillSpector](https://github.com/NVIDIA/SkillSpector) security 
 |---|---|
 | [`DECISIONS.md`](DECISIONS.md) | What's approved and installed, what's recommended but not yet installed, and every rejection with the reason |
 | [`POSTS.md`](POSTS.md) | Every saved post that has been analysed, newest first, with its verdict |
+| [`WORTH-KNOWING.md`](WORTH-KNOWING.md) | Things that are true and useful but aren't a change to my setup — real tools that don't fit my stack, platform news, techniques. Grouped by who they're most relevant to |
 | [`reviews/`](reviews/) | The full daily reviews: what each post claimed, how it was checked, and why it was or wasn't worth acting on |
 | [`skills.json`](skills.json) | The recommended-tools list in machine-readable form, with install commands |
 | [`skills/video-analyse/`](skills/video-analyse/) | A skill of mine you can install: has Claude watch and listen to a video locally before commenting on it |
@@ -22,7 +23,14 @@ and it passes a [SkillSpector](https://github.com/NVIDIA/SkillSpector) security 
 - **Recommended**: real, verified and a good fit. Still waits for approval and a scan.
 - **Borderline**: real, but mostly duplicates what's already set up.
 - **Already covered**: true, but something already installed does the job.
-- **Rejected**: fake, unverifiable, risky (legal, security or platform terms), or off-stack.
+- **Worth knowing**: checked and genuinely useful, but not a change to my Claude setup.
+  Real tools that need infrastructure I don't have, a competitor's feature, a technique,
+  or reference material. See [`WORTH-KNOWING.md`](WORTH-KNOWING.md).
+- **Rejected**: fake, unverifiable, risky (legal, security or platform terms), or an ad.
+
+"Worth knowing" exists because for a while those two last verdicts were one. A post that
+was true and useful but not installable got filed as rejected, which threw away the
+useful part. On 2026-10-13 all 97 rejections were re-read and 18 were moved across.
 
 ## Using a tool from here
 
