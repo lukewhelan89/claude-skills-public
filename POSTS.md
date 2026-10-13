@@ -3,13 +3,20 @@
 Each post saved to the AI folder on Instagram or TikTok, the review that judged it,
 and the verdict. The review file has the claim, how it was checked and why.
 
-133 posts.
+140 posts.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@nedz_reclassified](https://www.instagram.com/p/Debla6vTCkU) | Second pass — 7 stranded posts |  |
 | [2026-10-14](reviews/2026-10-14.md) | Instagram | [@realrileybrown](https://www.instagram.com/p/Deb3ZCdgFjW) | Rejected |  |
 | [2026-10-14](reviews/2026-10-14.md) | Instagram | [@heysirio](https://www.instagram.com/p/DeZhN96xkZo) | Rejected |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@zachdoesai_](https://www.instagram.com/p/DeZJFJIBExw) | Second pass — 7 stranded posts |  |
 | [2026-10-14](reviews/2026-10-14.md) | Instagram | [@qendresahhoti](https://www.instagram.com/p/DeZ4sI6hZTZ) | Worth knowing |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@mr.paidsocial](https://www.instagram.com/p/DeSiFt2Dwq8) | Second pass — 7 stranded posts |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@christianjohnston.ai](https://www.instagram.com/p/DeQvqkcxe2k) | Second pass — 7 stranded posts |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DdXSlJ1RGHI) | Second pass — 7 stranded posts |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@chase.h.ai](https://www.instagram.com/p/Dcw20sWpLgs) | Second pass — 7 stranded posts |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@nick_saraev](https://www.instagram.com/p/DblTPmfPCpB) | Second pass — 7 stranded posts |  |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7673918918855003406) | Worth knowing | 2026-08-26 |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7671695716271557902) | Worth knowing | 2026-09-08 |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@structurewebworks](https://www.tiktok.com/@structurewebworks/video/7673353459688574226) | Worth knowing | 2026-08-26 |
