@@ -1,0 +1,310 @@
+{
+  "generated": "2026-10-13",
+  "skills": [
+    {
+      "name": "video-use",
+      "what": "Edit raw footage with Claude Code — cuts dead space, colour grades, burns 2-word uppercase captions",
+      "repo": "browser-use/video-use",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7673918918855003406",
+      "stars": 21411,
+      "verified": "yes — GitHub API: 21411 stars; repo describes itself as 'Edit videos with coding agents'",
+      "confidence_score": 9,
+      "install": "see https://github.com/browser-use/video-use",
+      "installed": "2026-08-27"
+    },
+    {
+      "name": "skillspector",
+      "what": "NVIDIA security scanner for agent skills — 0–100 risk score before you install a SKILL.md, folder, zip or repo; optional MCP",
+      "repo": "NVIDIA/SkillSpector",
+      "source_url": "https://www.instagram.com/p/Dc1oIn8CyDW/",
+      "stars": 17341,
+      "verified": "yes — GitHub API 2026-09-16: 17,341 stars, Apache-2.0, created 2026-03-21, pushed 2026-09-15; README confirms 71 patterns/17 categories, --no-llm static mode",
+      "confidence_score": 9,
+      "install": "uv tool install 'skillspector[mcp] @ git+https://github.com/NVIDIA/skillspector.git'",
+      "note": "CLI tool, not a ~/.claude/skills directory. Proposed as an install gate for every other entry in this manifest.",
+      "installed": "2026-09-16"
+    },
+    {
+      "name": "openseo",
+      "what": "Self-hosted open-source SEO tool (Semrush/Ahrefs alternative) with a native Claude Code plugin — MCP server + 9 agent skills for keyword research, competitor/backlink analysis, and clustering",
+      "repo": "every-app/open-seo",
+      "source_url": "https://www.tiktok.com/@build_in_public/video/7679967745647086881",
+      "stars": 22977,
+      "verified": "yes — GitHub API 2026-10-11: 22,977 stars, MIT, created 2026-02-27, pushed 2026-10-08; README lists 'AI Visibility' (GEO) and the MCP + agent skills. Re-surfaced by https://www.instagram.com/p/DePycPjsIAN/ (Product Hunt #3 launch of the AI Visibility beta). $10/mo hosted-tier claim still caption-sourced only. SkillSpector 2.12.0 --no-llm on plugins/openseo (commit 89e5a00, 2026-10-08) 2026-10-13: 0/100 LOW, SAFE, no issues. Plugin = 12 SKILL.md files + an HTTP MCP pointing at https://app.openseo.so/mcp (hosted, needs an OpenSEO account); no hooks, no scripts.",
+      "confidence_score": 8,
+      "install": "claude plugin marketplace add every-app/open-seo && claude plugin install openseo@openseo (then log in to the openseo MCP via /mcp)",
+      "installed": "2026-10-13"
+    },
+    {
+      "name": "frontend-design",
+      "what": "Anthropic's own official Claude Code design skill — the base that both Impeccable and Taste-Skill were forked from",
+      "repo": "anthropics/skills",
+      "source_url": "https://www.instagram.com/p/DcEFABnvBuH/",
+      "stars": 171376,
+      "verified": "yes — GitHub API: anthropics/skills 171376 stars; README of pbakaus/impeccable names frontend-design as its origin",
+      "confidence_score": 8,
+      "install": "git clone --depth 1 https://github.com/anthropics/skills /tmp/anthropic-skills && cp -r /tmp/anthropic-skills/skills/frontend-design ~/.claude/skills/frontend-design",
+      "installed": "2026-08-27"
+    },
+    {
+      "name": "claude-seo",
+      "what": "Technical SEO audit skill (crawlability, schema, internal links) with 25 sub-skills + 18 specialist agents, built for agencies running multiple client sites",
+      "repo": "AgriciDaniel/claude-seo",
+      "source_url": "https://www.instagram.com/p/DcZaWTqjgH2/",
+      "stars": 14998,
+      "verified": "yes — GitHub API: 14998 stars (claimed ~15k), on-screen GitHub UI matches transcript metric-for-metric",
+      "confidence_score": 8,
+      "install": "git clone https://github.com/AgriciDaniel/claude-seo ~/.claude/skills/claude-seo"
+    },
+    {
+      "name": "video-shotcraft",
+      "what": "Claude Code skill turning product screenshots into cinematic video via Remotion; 152 documented shots",
+      "repo": "Vincentwei1021/video-shotcraft",
+      "source_url": "https://www.instagram.com/p/DbKk4D5NBsk/",
+      "stars": 6238,
+      "verified": "yes — GitHub API: 6238 stars, created 2026-07-19",
+      "confidence_score": 8,
+      "install": "git clone https://github.com/Vincentwei1021/video-shotcraft ~/.claude/skills/video-shotcraft"
+    },
+    {
+      "name": "Agent-Reach",
+      "what": "Cross-platform search/read CLI for agents — Twitter, Reddit, GitHub, YouTube, Instagram, LinkedIn, no paid APIs",
+      "repo": "Panniantong/Agent-Reach",
+      "source_url": "https://www.tiktok.com/@brennan_wells/video/7658483093816331534",
+      "stars": 74805,
+      "verified": "yes — GitHub API: 74805 stars (claimed 38k at post time, grown substantially since)",
+      "confidence_score": 7,
+      "install": "see https://github.com/Panniantong/Agent-Reach (CLI tool, not a ~/.claude/skills drop-in)"
+    },
+    {
+      "name": "meetily",
+      "what": "Local meeting transcription with summary and action items; audio never leaves the machine",
+      "repo": "Zackriya-Solutions/meetily",
+      "source_url": "https://www.instagram.com/p/Db_NfRmDFXd/",
+      "stars": 29428,
+      "verified": "yes — GitHub API: 29428 stars",
+      "confidence_score": 7,
+      "install": "see https://github.com/Zackriya-Solutions/meetily (app, not a Claude skill)"
+    },
+    {
+      "name": "hyperframes",
+      "what": "HTML-to-MP4 motion graphics for agents (HeyGen, open-sourced). Already trialled locally in a local trial folder",
+      "repo": "heygen-com/hyperframes",
+      "source_url": "https://www.instagram.com/p/DZv8-rvkZ9E/",
+      "stars": 42789,
+      "verified": "yes — GitHub API: 42789 stars (claimed 41k)",
+      "confidence_score": 7,
+      "install": "already present locally at a local trial folder — decide whether to formalise or delete"
+    },
+    {
+      "name": "clean-user-facing-text",
+      "what": "Unicode hygiene + best-effort statistical rewrite; refuses undisclosed authorship evasion by design",
+      "repo": "guillaumemeyer/watermarks-remover",
+      "source_url": "https://www.tiktok.com/@willfrancis24/video/7673908739765767446",
+      "stars": 18618,
+      "verified": "yes — GitHub API: 18618 stars, MIT, created 2026-08-11; cleaner tested locally on real artifacts",
+      "confidence_score": 7,
+      "installed": "2026-08-27",
+      "install": "python3 install_skill.py --skill clean-user-facing-text --target claude-code"
+    },
+    {
+      "name": "heyform",
+      "what": "Self-hosted open-source form builder — consent-capturing inbound lead capture",
+      "repo": "heyform/heyform",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7665935477244972302",
+      "stars": 8951,
+      "verified": "yes — GitHub API: 8951 stars, AGPL-3.0, only 9 open issues",
+      "confidence_score": 7,
+      "note": "AGPL-3.0: exposing a MODIFIED version as a client-facing service triggers the network copyleft clause",
+      "install": "self-hosted deployment (Docker) — not a Claude skill"
+    },
+    {
+      "name": "marketingskills",
+      "what": "50 marketing skills for Claude Code (cro, seo-audit, ai-seo, schema, competitor-profiling, customer-research, offers, pricing …). Install the non-overlapping subset only",
+      "repo": "coreyhaines31/marketingskills",
+      "source_url": "https://www.instagram.com/p/Dcivr5EoQ4_/",
+      "stars": 50490,
+      "verified": "yes — GitHub API 2026-09-16: 50,490 stars, MIT, pushed 2026-09-05; 50 skills listed in skills/. Partner-funded (Converly, Ploy) — disclosed in README; SkillSpector 2026-09-16 on the 9-skill subset: 0–16/100, all LOW; the four findings are false positives on inspection (see review)",
+      "confidence_score": 7,
+      "install": "npx -y skills add coreyhaines31/marketingskills --skill cro seo-audit ai-seo schema competitor-profiling customer-research offers pricing marketing-psychology --agent claude-code --global --yes",
+      "note": "Skip social/ads/ad-creative — covered by the anthropic-skills account skills and the agency's own tone-of-voice skill. Installs one directory per skill, not a single 'marketingskills' dir.",
+      "installed": "2026-09-16"
+    },
+    {
+      "name": "web-design-guidelines",
+      "what": "Vercel's audit skill: checks existing UI against Vercel's web design guidelines and flags weak points before ship",
+      "repo": "vercel-labs/agent-skills",
+      "source_url": "https://www.instagram.com/p/DcWQCQdN28T/",
+      "stars": 31225,
+      "verified": "yes — GitHub API 2026-09-16: vercel-labs/agent-skills 31,225 stars, pushed 2026-08-28, skills/web-design-guidelines present; NOT in installed vercel-plugin@vercel 0.40.0 (24 skills checked); SkillSpector 2026-09-16: 0/100 LOW, no findings",
+      "confidence_score": 7,
+      "install": "npx -y skills add vercel-labs/agent-skills --skill web-design-guidelines --agent claude-code --global --yes",
+      "installed": "2026-09-16"
+    },
+    {
+      "name": "presenton",
+      "what": "Prompt-to-deck generation, exports straight to PowerPoint",
+      "repo": "presenton/presenton",
+      "source_url": "https://www.instagram.com/p/Db_NfRmDFXd/",
+      "stars": 9683,
+      "verified": "yes — GitHub API: 9683 stars",
+      "confidence_score": 6,
+      "install": "see https://github.com/presenton/presenton (app, not a Claude skill)"
+    },
+    {
+      "name": "harper",
+      "what": "Offline grammar checker by Automattic; fits the reword-don't-rewrite rule",
+      "repo": "Automattic/harper",
+      "source_url": "https://www.instagram.com/p/Db_NfRmDFXd/",
+      "stars": 14577,
+      "verified": "yes — GitHub API: 14577 stars",
+      "confidence_score": 6,
+      "install": "see https://github.com/Automattic/harper"
+    },
+    {
+      "name": "remove-ai-marks",
+      "what": "Broader provenance stripping: invisible Unicode, statistical rewrite, C2PA/EXIF/XMP on images and documents",
+      "repo": "guillaumemeyer/watermarks-remover",
+      "source_url": "https://www.tiktok.com/@willfrancis24/video/7673908739765767446",
+      "stars": 18618,
+      "verified": "yes — same repo",
+      "confidence_score": 6,
+      "installed": "2026-08-27",
+      "install": "python3 install_skill.py --skill remove-ai-marks --target claude-code"
+    },
+    {
+      "name": "libredesk",
+      "what": "Self-hosted support desk, email + live chat, single Go binary",
+      "repo": "abhinavxd/libredesk",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7665935477244972302",
+      "stars": 2822,
+      "verified": "yes — GitHub API: 2822 stars, AGPL-3.0, pushed 2026-08-27",
+      "confidence_score": 6,
+      "note": "AGPL-3.0; young project (79 open issues) — fine internally, don't put client SLAs on it yet",
+      "install": "self-hosted deployment — not a Claude skill"
+    },
+    {
+      "name": "maxun",
+      "what": "No-code web scraping/extraction — for competitor and campaign research, not contact harvesting",
+      "repo": "getmaxun/maxun",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7665935477244972302",
+      "stars": 17302,
+      "verified": "yes — GitHub API: 17302 stars, AGPL-3.0, pushed 2026-08-26",
+      "confidence_score": 6,
+      "note": "AGPL-3.0. Legitimacy depends entirely on target: public research fine, contact harvesting is Spam Act exposure",
+      "install": "self-hosted deployment — not a Claude skill"
+    },
+    {
+      "name": "pyvideotrans",
+      "what": "Transcribes, translates and AI-dubs a finished video into another language — multi-language repurposing for content",
+      "repo": "jianchang512/pyvideotrans",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7671695716271557902",
+      "stars": 18930,
+      "verified": "yes — GitHub API: 18930 stars, GPL-3.0, pushed 2026-09-07 (active)",
+      "confidence_score": 6,
+      "note": "Fills a real gap — video-use (already installed) transcribes/edits but doesn't translate or dub. Standalone tool, not a Claude Code skill.",
+      "install": "see https://github.com/jianchang512/pyvideotrans (Python app, not a ~/.claude/skills drop-in)"
+    },
+    {
+      "name": "video2x",
+      "what": "ML-based video super-resolution and frame interpolation — fixes low-res/choppy footage",
+      "repo": "k4yt3x/video2x",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7671695716271557902",
+      "stars": 21527,
+      "verified": "yes — GitHub API: 21527 stars, AGPL-3.0, pushed 2026-03-07 (active)",
+      "confidence_score": 6,
+      "note": "Fills a gap video-use doesn't cover (no upscaling/interpolation). AGPL-3.0 — fine for internal use, flag if ever redistributed as a modified service.",
+      "install": "see https://github.com/k4yt3x/video2x (CLI/GUI app, not a ~/.claude/skills drop-in)"
+    },
+    {
+      "name": "typesafe-ai",
+      "what": "Official Claude Code plugin for Jev, TypeSafe's System One decision model: cheap, fast true/false, pick-one and score decisions with calibrated confidence; Claude handles only the uncertain tail",
+      "repo": "typesafe-ai/skills",
+      "source_url": "https://www.instagram.com/p/DduAMvfBxAx/",
+      "stars": 2438,
+      "verified": "yes — GitHub API 2026-09-30: 2,438 stars, MIT, pushed 2026-09-12; Jev launch 2026-09-15 confirmed on OpenRouter and in independent coverage; SkillSpector 2026-09-30: 19/100 LOW SAFE. Creator cost multiples NOT independently checked",
+      "confidence_score": 6,
+      "install": "claude plugin marketplace add typesafe-ai/skills && claude plugin install typesafe@typesafe-ai",
+      "note": "Needs a TypeSafe/OpenRouter API key. Decision state is sent to TypeSafe — read their data terms before routing client finance data through it. Two weeks old.",
+      "installed": "2026-09-30"
+    },
+    {
+      "name": "apple-design",
+      "what": "Apple's fluid-interface principles (WWDC 'Designing Fluid Interfaces') translated for the web: springs, gestures, momentum, interruptible transitions",
+      "verified": "yes: GitHub API 2026-10-05, 43,309 stars, MIT, pushed 2026-10-02; SKILL.md read and covers motion/interaction rather than the fonts/colours the post claimed; SkillSpector 2.11.2 --no-llm: 0/100 LOW, CAUTION (no issues, only partial reference resolution), no executable scripts",
+      "install": "git clone --depth 1 https://github.com/emilkowalski/skills /tmp/emil-skills && cp -r /tmp/emil-skills/skills/apple-design ~/.claude/skills/apple-design",
+      "repo": "emilkowalski/skills",
+      "source_url": "https://www.instagram.com/p/DeC26aTPIGG/",
+      "stars": 43309,
+      "confidence_score": 6,
+      "installed": "2026-10-05"
+    },
+    {
+      "name": "emil-design-eng",
+      "what": "Emil Kowalski's (Sonner/Vaul author) design-engineering rules for UI polish, component design and animation decisions",
+      "verified": "yes: GitHub API 2026-10-05, 43,309 stars, MIT, pushed 2026-10-02; SkillSpector 2.11.2 --no-llm: 0/100 LOW, SAFE, no executable scripts",
+      "install": "git clone --depth 1 https://github.com/emilkowalski/skills /tmp/emil-skills && cp -r /tmp/emil-skills/skills/emil-design-eng ~/.claude/skills/emil-design-eng",
+      "note": "Complements frontend-design (aesthetics) and web-design-guidelines (audit) with motion and interaction feel. Skip the repo's other 12 skills.",
+      "repo": "emilkowalski/skills",
+      "source_url": "https://www.instagram.com/p/DeC26aTPIGG/",
+      "stars": 43309,
+      "confidence_score": 6,
+      "installed": "2026-10-05"
+    },
+    {
+      "name": "here.now",
+      "what": "Zero-config static web hosting for AI agents — agent publishes a file/site via HTTP API and gets a live URL in seconds; used in source post to host a timestamped-comment video review page for a Claude Code editing loop",
+      "repo": null,
+      "source_url": "https://www.tiktok.com/@mr.paidsocial/video/7674101926191058190",
+      "stars": null,
+      "verified": "partially — product is real (WebFetch of here.now + docs, GitHub org heredotnow/skill) and served on Cloudflare, but the post's central claim 'made by Vercel' is false — no source ties it to Vercel. Not a GitHub-star-trackable repo; distributed as a hosted API + GitHub skill contract.",
+      "confidence_score": 5,
+      "note": "Flagged, not a firm recommendation — real and potentially useful as an upgrade to the video-use skill's chat-based review loop, but recommending it on the strength of the false Vercel claim would be the wrong reason. See review-2026-09-01.md.",
+      "install": "see https://github.com/heredotnow/skill — hosted API/service, not a ~/.claude/skills drop-in"
+    },
+    {
+      "name": "ponytail",
+      "what": "Plugin that forces a YAGNI/stdlib/native/dependency/one-line ladder before writing code, plus a `ponytail:` comment convention for flagging deliberate corner-cuts with their upgrade path",
+      "repo": "DietrichGebert/ponytail",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7679178922008857870",
+      "stars": 116348,
+      "verified": "yes — GitHub API: 116348 stars (claimed 115k), MIT, created 2026-06-12, pushed 2026-08-07; AGENTS.md and README benchmark numbers (-54% LOC/-22% tokens/-20% cost/-27% time, walked-back 80-94% claim incl. issue #126) match caption exactly",
+      "confidence_score": 5,
+      "note": "Overlaps heavily with rules already in ~/.claude/CLAUDE.md (YAGNI, no premature abstraction). Only net-new piece is the ponytail: comment convention for flagged corner-cuts. Borderline, not a firm recommendation — see review-2026-08-30.md",
+      "install": "/plugin marketplace add https://github.com/DietrichGebert/ponytail && /plugin install ponytail@ponytail"
+    },
+    {
+      "name": "voicebox",
+      "what": "Local open-source voice studio: voice cloning from a few seconds of audio, TTS in 23 languages, dictation",
+      "repo": "jamiepine/voicebox",
+      "source_url": "https://www.instagram.com/p/Dc25mm-Mwy2/",
+      "stars": 56011,
+      "verified": "yes — GitHub API 2026-09-30: 56,011 stars, MIT, pushed 2026-08-09. App, not a skill; not scanned",
+      "confidence_score": 5,
+      "install": "see https://github.com/jamiepine/voicebox (desktop app, not a Claude skill)",
+      "note": "Possible local replacement for ElevenLabs in video-use. Own or consented voices only."
+    },
+    {
+      "name": "i-have-adhd",
+      "what": "Anti-preamble output skill — action-first, numbered steps, no closers, caps lists at 5 items",
+      "repo": "ayghri/i-have-adhd",
+      "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7679178922008857870",
+      "stars": 56677,
+      "verified": "yes — GitHub API 2026-10-13: 56,677 stars, MIT, created 2026-05-13, pushed 2026-10-11; skillspector --no-llm on skills/i-have-adhd (local clone; URL scan errored): scan 0/100 LOW, 0 issues, 3 non-executable files. Plugin hooks/always-on.* NOT scanned. Re-surfaced by https://www.tiktok.com/@your.aimentor/video/7695413629574728991",
+      "confidence_score": 4,
+      "note": "Overlaps existing global instructions (short/concise responses, no trailing summaries). Two rules not currently covered anywhere: cap lists at 5 items, restate state every turn. Borderline, not a firm recommendation — see review-2026-08-30.md Skill-only install on purpose: the plugin route adds always-on hooks that were not scanned. Previous install command cloned the whole repo, leaving SKILL.md two levels too deep (fixed 2026-10-13).",
+      "install": "git clone --depth 1 https://github.com/ayghri/i-have-adhd /tmp/i-have-adhd && cp -r /tmp/i-have-adhd/skills/i-have-adhd ~/.claude/skills/i-have-adhd"
+    },
+    {
+      "name": "youtube-agent",
+      "what": "11 YouTube skills (/yt-script, /yt-package, /yt-edit, /yt-retention, /yt-viral, /yt-shorts, /yt-seo, /yt-chapters, /yt-comment, /yt-plan, /yt-audit) plus 6 stdlib Python linters. Drafts only, never publishes",
+      "repo": "Jakeschincariol/youtube-agent-skill",
+      "source_url": "https://www.instagram.com/p/DeT7W1WvEVO/",
+      "stars": 1008,
+      "verified": "partially — GitHub API 2026-10-11: 1,008 stars, MIT, created 2026-09-16, ONE commit and no pushes since. README matches the reel's 11 skills / 21 hook formulas / virality skill but contradicts its 'runs your channel / edits the video / handles comments' claims (it drafts and you upload). SkillSpector --no-llm 10/100 LOW, SAFE; 6 MEDIUM 'Rogue Agent' hits are all on the word 'write' in SKILL.md headings (false positives). The Python tools import stdlib only and make no network calls.",
+      "confidence_score": 5,
+      "install": "/plugin marketplace add Jakeschincariol/youtube-agent-skill && /plugin install youtube-agent",
+      "note": "This installs as a plugin, not a ~/.claude/skills directory. Only worth it if you or a client actually run YouTube. It's a single-commit repo, so re-check it before installing."
+    }
+  ]
+}
