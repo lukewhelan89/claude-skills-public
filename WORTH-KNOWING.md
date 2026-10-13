@@ -197,6 +197,28 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 
 ## Leadership
 
+### The harness matters about as much as the model — but the post's numbers are wrong
+_From the [2026-10-14](reviews/2026-10-14.md) review._
+@qendresahhoti, https://www.instagram.com/p/DeZ4sI6hZTZ/
+- **What it actually is:** a Hugging Face / Liquid AI release on multi-turn RL
+  inside unmodified coding agents. The claim is that one model, unchanged, scores
+  very differently depending on which agent harness wraps it — Claude Code,
+  Codex, OpenCode and mini-SWE-agent were the four tested.
+- **Verified — partially, and the figures don't hold up.** The work is real: the
+  primary Liquid AI/HF post for **LFM2.5-2.6B** confirms a "Harness Proxy" that
+  treats harnesses as black boxes while capturing token-level trajectories,
+  exactly as the post describes. But that post contains **no** cross-harness
+  comparison. The post claims **62% vs 33%**; secondary coverage of the
+  companion guide reports **52% vs 23%** for the same-model point and
+  **42.2% → 54.2%** pass@1 for the RL gain. I could not reach the guide itself,
+  so **treat all these numbers as unconfirmed** — including mine.
+- **Takeaway:** the direction is the useful part and it is well supported — the
+  software around a model changes what it sees and how its actions run, so
+  switching coding tools really can feel like the model got worse. It is also a
+  point in favour of standardising on one harness rather than mixing. Do not
+  repeat the 62/33 figures; they appear to be wrong.
+- **Relevant to:** leadership.
+
 ### Duolingo's churn instrumentation, from a decompiled APK
 _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 @ayoships, https://www.instagram.com/p/DeUlQTQxv5O/

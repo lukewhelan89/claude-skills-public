@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13",
+  "generated": "2026-10-14",
   "skills": [
     {
       "name": "video-use",
@@ -290,10 +290,11 @@
       "repo": "ayghri/i-have-adhd",
       "source_url": "https://www.tiktok.com/@ty.prompts.ai/video/7679178922008857870",
       "stars": 56677,
-      "verified": "yes — GitHub API 2026-10-13: 56,677 stars, MIT, created 2026-05-13, pushed 2026-10-11; skillspector --no-llm on skills/i-have-adhd (local clone; URL scan errored): scan 0/100 LOW, 0 issues, 3 non-executable files. Plugin hooks/always-on.* NOT scanned. Re-surfaced by https://www.tiktok.com/@your.aimentor/video/7695413629574728991",
+      "verified": "yes — GitHub API 2026-10-13: 56,677 stars, MIT, created 2026-05-13, pushed 2026-10-11; skillspector --no-llm re-run on fresh clone 2026-10-14: 0/100 LOW, no security issues, no executable scripts. Plugin hooks/always-on.* deliberately NOT installed and NOT scanned (skill subpath only).",
       "confidence_score": 4,
       "note": "Overlaps existing global instructions (short/concise responses, no trailing summaries). Two rules not currently covered anywhere: cap lists at 5 items, restate state every turn. Borderline, not a firm recommendation — see review-2026-08-30.md Skill-only install on purpose: the plugin route adds always-on hooks that were not scanned. Previous install command cloned the whole repo, leaving SKILL.md two levels too deep (fixed 2026-10-13).",
-      "install": "git clone --depth 1 https://github.com/ayghri/i-have-adhd /tmp/i-have-adhd && cp -r /tmp/i-have-adhd/skills/i-have-adhd ~/.claude/skills/i-have-adhd"
+      "install": "git clone --depth 1 https://github.com/ayghri/i-have-adhd /tmp/i-have-adhd && cp -r /tmp/i-have-adhd/skills/i-have-adhd ~/.claude/skills/i-have-adhd",
+      "installed": "2026-10-14"
     },
     {
       "name": "youtube-agent",

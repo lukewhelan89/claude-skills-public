@@ -3,10 +3,13 @@
 Each post saved to the AI folder on Instagram or TikTok, the review that judged it,
 and the verdict. The review file has the claim, how it was checked and why.
 
-130 posts.
+133 posts.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@realrileybrown](https://www.instagram.com/p/Deb3ZCdgFjW) | Rejected |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@heysirio](https://www.instagram.com/p/DeZhN96xkZo) | Rejected |  |
+| [2026-10-14](reviews/2026-10-14.md) | Instagram | [@qendresahhoti](https://www.instagram.com/p/DeZ4sI6hZTZ) | Worth knowing |  |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7673918918855003406) | Worth knowing | 2026-08-26 |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7671695716271557902) | Worth knowing | 2026-09-08 |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | TikTok | [@structurewebworks](https://www.tiktok.com/@structurewebworks/video/7673353459688574226) | Worth knowing | 2026-08-26 |
@@ -25,7 +28,7 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@codecraftman_](https://www.instagram.com/p/DcDCPatMLz5) | Worth knowing | 2026-08-26 |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@wassimyounes_](https://www.instagram.com/p/DbtJytsumrO) | Worth knowing | 2026-09-16 |
 | [2026-10-13-resort](reviews/2026-10-13-resort.md) | Instagram | [@angelotrifanoff.ai](https://www.instagram.com/p/Db2FJERS0N_) | Worth knowing | 2026-10-05 |
-| [2026-10-13](reviews/2026-10-13.md) | TikTok | [@your.aimentor](https://www.tiktok.com/@your.aimentor/video/7695413629574728991) | Already covered |  |
+| [2026-10-13](reviews/2026-10-13.md) | TikTok | [@your.aimentor](https://www.tiktok.com/@your.aimentor/video/7695413629574728991) | Already covered | 2026-10-14 |
 | [2026-10-13](reviews/2026-10-13.md) | Instagram | [@j.t.rivard](https://www.instagram.com/p/DeZ_QCMKLis) | Rejected |  |
 | [2026-10-13](reviews/2026-10-13.md) | Instagram | [@theaifield](https://www.instagram.com/p/DeZ4ckxjBp_) | Rejected |  |
 | [2026-10-13](reviews/2026-10-13.md) | Instagram | [@ashtonv.ai](https://www.instagram.com/p/DeWi5QUDeVD) | Already covered |  |
@@ -95,7 +98,7 @@ and the verdict. The review file has the claim, how it was checked and why.
 | [2026-09-02](reviews/2026-09-02.md) | TikTok | [@githubvault](https://www.tiktok.com/@githubvault/video/7678884794742164756) | Rejected |  |
 | [2026-09-01](reviews/2026-09-01.md) | TikTok | [@mr.paidsocial](https://www.tiktok.com/@mr.paidsocial/video/7674101926191058190) | Flagged |  |
 | [2026-09-01](reviews/2026-09-01.md) | TikTok | [@build_in_public](https://www.tiktok.com/@build_in_public/video/7679967745647086881) | Recommended |  |
-| [2026-08-30](reviews/2026-08-30.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7679178922008857870) | Borderline |  |
+| [2026-08-30](reviews/2026-08-30.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7679178922008857870) | Borderline | 2026-10-14 |
 | [2026-08-30](reviews/2026-08-30.md) | TikTok | [@joshualevi.ai](https://www.tiktok.com/@joshualevi.ai/video/7677649519672069408) | Rejected |  |
 | [2026-08-28](reviews/2026-08-28.md) | TikTok | [@ty.prompts.ai](https://www.tiktok.com/@ty.prompts.ai/video/7677607825593355533) | Recommended |  |
 | [2026-08-28](reviews/2026-08-28.md) | TikTok | [@cooper.simson](https://www.tiktok.com/@cooper.simson/video/7677010451061853456) | Recommended |  |
