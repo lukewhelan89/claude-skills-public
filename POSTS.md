@@ -3,10 +3,39 @@
 Each post saved to the AI folder on Instagram or TikTok, the review that judged it,
 and the verdict. The review file has the claim, how it was checked and why.
 
-140 posts.
+169 posts.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-16](reviews/2026-10-16.md) | TikTok | [@replace.so](https://www.tiktok.com/@replace.so/video/7690206094936902944) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | TikTok | [@cinema.joe](https://www.tiktok.com/@cinema.joe/video/7696265577790229790) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@vibe_withkevin](https://www.instagram.com/p/DefW8z3D1xV) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@sahni.ai](https://www.instagram.com/p/DefPF6EgRwL) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@ai.with.andrew](https://www.instagram.com/p/DefH5xHJ3Sp) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@ufd_tech](https://www.instagram.com/p/DeeVb2vGtw8) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@lewismenelaws](https://www.instagram.com/p/Dee1FqlRhbo) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@aiagently](https://www.instagram.com/p/DedkCc6olmo) | Already covered |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@cooper.simson](https://www.instagram.com/p/DedgBMVMtQS) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@etthan.ryze](https://www.instagram.com/p/DedG439vIeM) | Already covered |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@kevbuildsapps](https://www.instagram.com/p/DechHg6gBAQ) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@simonbeard](https://www.instagram.com/p/DebcBWilsqj) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@joelimmmmm](https://www.instagram.com/p/Dea1NmuOG1u) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@alekseitalksai](https://www.instagram.com/p/DeY6hIDRJqN) | Already covered |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@agentic.james](https://www.instagram.com/p/DeXzU7tDudO) | Recommended |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DeWwPtmDvqV) | Already covered |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@lincolndevine](https://www.instagram.com/p/DeJxR3-hR5b) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@askgpts](https://www.instagram.com/p/DeCWRKAk3Hr) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@buildwithneej](https://www.instagram.com/p/Ddt16ilkRGB) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@forcceee_](https://www.instagram.com/p/DdjeAf2IA_k) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@agentic.james](https://www.instagram.com/p/DdXnIxhl32v) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@gittrend.io](https://www.instagram.com/p/DdSaxEKjhg_) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@nicholas.puru](https://www.instagram.com/p/DdHFEu1O92_) | Already covered |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@buildwithneej](https://www.instagram.com/p/Dd9NdbFxJLo) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/DcjDu92um3W) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@git.radar](https://www.instagram.com/p/Dc_cgg-ETAF) | Worth knowing |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/DbRGB9QsGtb) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/Da3DJIGulrL) | Rejected |  |
+| [2026-10-16](reviews/2026-10-16.md) | Instagram | [@wassimyounes_](https://www.instagram.com/p/DZ0wq0GJ1Yr) | Rejected |  |
 | [2026-10-14](reviews/2026-10-14.md) | Instagram | [@nedz_reclassified](https://www.instagram.com/p/Debla6vTCkU) | Second pass — 7 stranded posts |  |
 | [2026-10-14](reviews/2026-10-14.md) | Instagram | [@realrileybrown](https://www.instagram.com/p/Deb3ZCdgFjW) | Rejected |  |
 | [2026-10-14](reviews/2026-10-14.md) | Instagram | [@heysirio](https://www.instagram.com/p/DeZhN96xkZo) | Rejected |  |

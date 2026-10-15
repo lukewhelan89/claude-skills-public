@@ -8,6 +8,42 @@ Grouped by who it's most relevant to; an entry can appear more than once.
 
 ## Social
 
+### Self-hosted replacements for paid SaaS: three listicles, mostly old news
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@sahni.ai, https://www.instagram.com/p/DefPF6EgRwL/ ·
+@cooper.simson, https://www.instagram.com/p/DedgBMVMtQS/ ·
+@replace.so, https://www.tiktok.com/@replace.so/video/7690206094936902944
+- **What it actually is:** three lists of open-source tools, each pitched as
+  "kills a paid app". All the names appear only on screen.
+  - **List 1:** Cobalt, SearXNG, Reactive Resume, changedetection.io,
+    Suwayomi, LibreTranslate, gallery-dl, ArchiveBox, LocalSend and
+    Vaultwarden.
+  - **List 2:** Penpot, Plane, Twenty, Voicebox, Chatwoot, Cap, Documenso,
+    Listmonk and InvokeAI.
+  - **List 3:** Anydoc, OpenWorker, img2threejs, an agent CRM, HydraDB, Graft,
+    an agent video editor, open-kritt and Echo-Music.
+- **Verified (most of them):** LocalSend **94,476**, Vaultwarden **69,111**,
+  cobalt **45,009** (last push 2026-04-06), SearXNG **38,445**,
+  changedetection.io **35,038**, ArchiveBox **28,787**, gallery-dl **20,106**,
+  LibreTranslate **17,085**, Suwayomi-Server **7,883**,
+  `andrewyng/openworker` **18,537**, `img2threejs/img2threejs` **18,192**,
+  `hydra-db/hydradb` **13,031** (AGPL-3.0), `trycompai/crm` **11,335**,
+  `Kritt-ai/open-kritt` **2,292**. I couldn't find an original Graft repo, only
+  forks that name `trailhq/Graft`. Echo-Music and the agent video editor
+  couldn't be matched to a repo. Penpot, Plane, Twenty, Voicebox and Cap were
+  judged in earlier reviews. Anydoc was judged on 2026-10-14.
+- **Takeaway:**
+  - changedetection.io is the practical one for agency use: competitor-page and
+    pricing-page monitoring without a paid tool.
+  - LocalSend is a useful AirDrop substitute across Windows and Android.
+  - **Avoid** the downloaders (Cobalt, gallery-dl) and Echo-Music. Pulling other
+    creators' content without watermarks, or running an ad-free YouTube Music
+    client, breaches platform terms and risks copyright problems for client
+    work.
+  - Vaultwarden means self-hosting a password vault, which is a security job,
+    not a weekend install.
+- **Relevant to:** leadership, social.
+
 ### Instagram trial reels — post variants privately, promote the winner
 _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 @molllieeloise, https://www.instagram.com/p/DcgJcxlmTkM/
@@ -55,6 +91,22 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 - **Relevant to:** social, leadership.
 
 ## Video
+
+### CLI-Anything: gives agents a text interface to desktop apps
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@buildwithneej, https://www.instagram.com/p/Dd9NdbFxJLo/
+- **What it actually is:** `HKUDS/CLI-Anything` generates a command-line wrapper
+  for a desktop app, so an agent can drive it. It includes a hub of ready-made
+  wrappers such as OBS, GIMP, Blender, LibreOffice and Audacity. The real app
+  still has to be installed, and generating a new wrapper works best on
+  open-source apps.
+- **Verified:** **53,064 stars**, Apache-2.0, created 2026-03-08, pushed
+  2026-09-22. The post's claim of "79 ready-made CLIs" was not counted.
+- **Takeaway:** it's not for the web stack, so it doesn't go in the manifest.
+  It's the right shape if someone wants an agent to batch-process in Blender,
+  GIMP or Audacity. Scan any wrapper before running it, because the wrappers
+  execute app commands.
+- **Relevant to:** video, design.
 
 ### Recordly — screen recordings that look professionally edited
 _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
@@ -136,6 +188,22 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 
 ## Design
 
+### CLI-Anything: gives agents a text interface to desktop apps
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@buildwithneej, https://www.instagram.com/p/Dd9NdbFxJLo/
+- **What it actually is:** `HKUDS/CLI-Anything` generates a command-line wrapper
+  for a desktop app, so an agent can drive it. It includes a hub of ready-made
+  wrappers such as OBS, GIMP, Blender, LibreOffice and Audacity. The real app
+  still has to be installed, and generating a new wrapper works best on
+  open-source apps.
+- **Verified:** **53,064 stars**, Apache-2.0, created 2026-03-08, pushed
+  2026-09-22. The post's claim of "79 ready-made CLIs" was not counted.
+- **Takeaway:** it's not for the web stack, so it doesn't go in the manifest.
+  It's the right shape if someone wants an agent to batch-process in Blender,
+  GIMP or Audacity. Scan any wrapper before running it, because the wrappers
+  execute app commands.
+- **Relevant to:** video, design.
+
 ### Landing-page swipe file, by funnel type
 _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 @gurnoorsinghofficial, https://www.instagram.com/p/DeBasJgT4Qc/
@@ -196,6 +264,102 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 - **Relevant to:** sales, leadership.
 
 ## Leadership
+
+### A cheaper rival to Jev for extraction and summaries, not for decisions
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@vibe_withkevin, https://www.instagram.com/p/DefW8z3D1xV/
+- **What it actually is:** a comparison of Jev (TypeSafe's decision model) with
+  ScaleDown's small task-specific models. Jev answers yes/no, pick-one and
+  score questions. ScaleDown sells separate models for classify, extract and
+  summarise, which take longer inputs and images.
+- **Verified — partially.** Pricing for ScaleDown's Extract and Summarise models
+  appears only on a third-party aggregator, not on the vendor's own site. I
+  found nothing called "CDM". `scaledown-team/scaledown` on GitHub (831 stars,
+  GPL-3.0, last push 2026-05-11) may not be the same product. Treat the post's
+  figures as unconfirmed.
+- **Takeaway:** an internal tool already uses Jev for suggest-only
+  classification, which is the job Jev is built for. Don't switch on the
+  strength of this post. If a future feature needs extraction from long
+  documents rather than a decision, ScaleDown is worth a small evaluation
+  against your own data first.
+- **Relevant to:** leadership.
+
+### Agent harnesses and orchestrators: real, popular, and not Claude Code add-ons
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@buildwithneej, https://www.instagram.com/p/Ddt16ilkRGB/ ·
+@git.radar, https://www.instagram.com/p/Dc_cgg-ETAF/
+- **What it actually is:** a cluster of separate agent runtimes.
+  - `browser-use/jev-ultrafast`: a web agent that picks each click with Jev.
+  - `NandhaKishorM/laya`: a free local "System 1" decision model, pitched as the
+    open answer to Jev.
+  - `google/ax`: agent fleets on Kubernetes.
+  - `vectorize-io/hindsight`: agent memory.
+  - `paperclipai/paperclip`: manages agents like an org chart with budgets.
+  - `bytedance/deer-flow`: a long-horizon research and coding harness.
+- **Verified:** jev-ultrafast **23,006** stars (MIT, created 2026-09-16), laya
+  **33,045** (Apache-2.0), google/ax **13,679** (Apache-2.0), hindsight
+  **50,032** (MIT), paperclip **102,697** (MIT), deer-flow **83,913** (MIT; the
+  post said 81,726). The slide's laya figures (24–29 ms per call, offline tests
+  passing) are the poster's own and were not re-run.
+- **Takeaway:** laya is the one to watch. A free local model that answers
+  pick-one and yes/no questions could back a Jev-style feature with no
+  per-call cost or data leaving the machine, but it would need a head-to-head
+  test on real data first. The rest overlap Claude Code itself, or claude-mem
+  for memory. google/ax assumes Kubernetes, which you don't run.
+- **Relevant to:** leadership, leadership.
+
+### Self-hosted replacements for paid SaaS: three listicles, mostly old news
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@sahni.ai, https://www.instagram.com/p/DefPF6EgRwL/ ·
+@cooper.simson, https://www.instagram.com/p/DedgBMVMtQS/ ·
+@replace.so, https://www.tiktok.com/@replace.so/video/7690206094936902944
+- **What it actually is:** three lists of open-source tools, each pitched as
+  "kills a paid app". All the names appear only on screen.
+  - **List 1:** Cobalt, SearXNG, Reactive Resume, changedetection.io,
+    Suwayomi, LibreTranslate, gallery-dl, ArchiveBox, LocalSend and
+    Vaultwarden.
+  - **List 2:** Penpot, Plane, Twenty, Voicebox, Chatwoot, Cap, Documenso,
+    Listmonk and InvokeAI.
+  - **List 3:** Anydoc, OpenWorker, img2threejs, an agent CRM, HydraDB, Graft,
+    an agent video editor, open-kritt and Echo-Music.
+- **Verified (most of them):** LocalSend **94,476**, Vaultwarden **69,111**,
+  cobalt **45,009** (last push 2026-04-06), SearXNG **38,445**,
+  changedetection.io **35,038**, ArchiveBox **28,787**, gallery-dl **20,106**,
+  LibreTranslate **17,085**, Suwayomi-Server **7,883**,
+  `andrewyng/openworker` **18,537**, `img2threejs/img2threejs` **18,192**,
+  `hydra-db/hydradb` **13,031** (AGPL-3.0), `trycompai/crm` **11,335**,
+  `Kritt-ai/open-kritt` **2,292**. I couldn't find an original Graft repo, only
+  forks that name `trailhq/Graft`. Echo-Music and the agent video editor
+  couldn't be matched to a repo. Penpot, Plane, Twenty, Voicebox and Cap were
+  judged in earlier reviews. Anydoc was judged on 2026-10-14.
+- **Takeaway:**
+  - changedetection.io is the practical one for agency use: competitor-page and
+    pricing-page monitoring without a paid tool.
+  - LocalSend is a useful AirDrop substitute across Windows and Android.
+  - **Avoid** the downloaders (Cobalt, gallery-dl) and Echo-Music. Pulling other
+    creators' content without watermarks, or running an ad-free YouTube Music
+    client, breaches platform terms and risks copyright problems for client
+    work.
+  - Vaultwarden means self-hosting a password vault, which is a security job,
+    not a weekend install.
+- **Relevant to:** leadership, social.
+
+### Local models: what fits on a GPU, and what AirLLM actually trades away
+_From the [2026-10-16](reviews/2026-10-16.md) review._
+@lewismenelaws, https://www.instagram.com/p/Dee1FqlRhbo/ ·
+@forcceee_, https://www.instagram.com/p/DdjeAf2IA_k/
+- **What it actually is:** a list of local models by VRAM tier, and AirLLM,
+  which loads a large model one layer at a time from disk so it fits in little
+  memory.
+- **Verified:** `lyogavin/airllm` has **38,859 stars** (Apache-2.0, pushed
+  2026-10-15). The model names in the VRAM list were not checked individually.
+  The whisper transcript mangles several of them, so treat them as approximate.
+- **Takeaway:** AirLLM makes big models *fit* in memory, but streaming layers
+  from disk makes them very slow. That's fine for offline batch jobs, and
+  useless for anything interactive. Local models only matter here if client
+  data must not leave the machine. Otherwise the hosted models you already use
+  are faster and better.
+- **Relevant to:** leadership.
 
 ### The harness matters about as much as the model — but the post's numbers are wrong
 _From the [2026-10-14](reviews/2026-10-14.md) review._
