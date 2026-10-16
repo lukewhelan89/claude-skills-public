@@ -3,10 +3,15 @@
 Each post saved to the AI folder on Instagram or TikTok, the review that judged it,
 and the verdict. The review file has the claim, how it was checked and why.
 
-169 posts.
+174 posts.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-17](reviews/2026-10-17.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/Deh4GM9tIO-) | Rejected |  |
+| [2026-10-17](reviews/2026-10-17.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/DbEK3bustQ7) | Worth knowing |  |
+| [2026-10-17](reviews/2026-10-17.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/Da-yYUrutzP) | Worth knowing |  |
+| [2026-10-17](reviews/2026-10-17.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/DXrZxxhDmEM) | Rejected |  |
+| [2026-10-17](reviews/2026-10-17.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/DX9tzh7x5ob) | Already covered |  |
 | [2026-10-16](reviews/2026-10-16.md) | TikTok | [@replace.so](https://www.tiktok.com/@replace.so/video/7690206094936902944) | Worth knowing |  |
 | [2026-10-16](reviews/2026-10-16.md) | TikTok | [@cinema.joe](https://www.tiktok.com/@cinema.joe/video/7696265577790229790) | Rejected |  |
 | [2026-10-16](reviews/2026-10-16.md) | Instagram | [@vibe_withkevin](https://www.instagram.com/p/DefW8z3D1xV) | Worth knowing |  |

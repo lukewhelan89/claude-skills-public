@@ -265,6 +265,37 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 
 ## Leadership
 
+### SkillOpt: trains a skill file against a benchmark
+_From the [2026-10-17](reviews/2026-10-17.md) review._
+**Source:** @marc.kaz, https://www.instagram.com/p/DbEK3bustQ7/
+- **What it actually is:** a research optimiser, not a skill to install. You
+  give it a task set with a scoring method. A frozen model runs the task, a
+  second model edits the skill document, and an edit is kept only if it scores
+  better on held-out examples. The output is a `best_skill.md`. The post's
+  "skills that improve themselves" makes it sound automatic. It only works if
+  you already have a benchmark for the skill.
+- **Verified:** `microsoft/SkillOpt` exists (18,485 stars, MIT, created
+  2026-05-08, last push 2026-10-06). The repo name and description match the
+  on-screen README. I did not check the "beats TextGrad" claim.
+- **Takeaway:** not yet. None of the skills here have a scored test set, and
+  building one costs more than the gain for small internal skills.
+  `skill-creator` already has a lighter test-and-revise loop. Look again if a
+  skill runs at volume and its output can be scored automatically.
+- **Relevant to:** leadership.
+
+### llmfit: checks which local models fit your hardware
+_From the [2026-10-17](reviews/2026-10-17.md) review._
+**Source:** @marc.kaz, https://www.instagram.com/p/Da-yYUrutzP/
+- **What it actually is:** a command-line tool. It reads your RAM, CPU and GPU,
+  then ranks local models by whether they fit and how fast they'll run, with a
+  suggested quantisation. The post describes it accurately.
+- **Verified:** `AlexsJones/llmfit` exists (37,995 stars, MIT, created
+  2026-02-15, last push 2026-10-15), and its README appears in every frame.
+- **Takeaway:** useful before downloading a local model, and it saves a
+  multi-gigabyte download that won't run. Nothing in this setup runs local
+  models today. See the local-models section of review-2026-10-16.
+- **Relevant to:** leadership.
+
 ### A cheaper rival to Jev for extraction and summaries, not for decisions
 _From the [2026-10-16](reviews/2026-10-16.md) review._
 @vibe_withkevin, https://www.instagram.com/p/DefW8z3D1xV/

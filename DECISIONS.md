@@ -1,6 +1,6 @@
 # Decisions
 
-From `skills.json`, generated 2026-10-16. Every tool is checked against the GitHub API and scanned with NVIDIA SkillSpector before install.
+From `skills.json`, generated 2026-10-17. Every tool is checked against the GitHub API and scanned with NVIDIA SkillSpector before install.
 
 ## Approved and installed
 
@@ -48,6 +48,8 @@ Posts whose tool or claim was turned down, with the reason. Full context is in t
 
 | Reviewed | Post | Why rejected |
 |---|---|---|
+| [2026-10-17](reviews/2026-10-17.md) | @angus.sewell, https://www.instagram.com/p/Deh4GM9tIO-/ | **Deception and personal-data compilation.** The method tracks down the private individuals in testimonials and gets agents to pose as fake leads, so it wastes real businesses' sales time under false pretences. That is a reputational risk for an agency if it were ever traced. Reading a competitor's public landing pages and the Meta Ad Library openly is legitimate, and needs no prompt pack. |
+| [2026-10-17](reviews/2026-10-17.md) | @marc.kaz, https://www.instagram.com/p/DXrZxxhDmEM/ | **Same verdict as review-2026-10-04.** `imputnet/cobalt` is real (45,032 stars, AGPL-3.0, last push 2026-04-06). Downloading other people's platform media breaches platform terms and risks copyright problems in client work. For personal research, this repo already uses yt-dlp. |
 | [2026-10-16](reviews/2026-10-16.md) | @lincolndevine, https://www.instagram.com/p/DeJxR3-hR5b/ | **Same tool and verdict as 2026-09-30.** `cloudflare/security-audit-skill` now has 29,881 stars (MIT). That review's SkillSpector run scored it **85/100, DO NOT INSTALL**. The HIGH findings are probably false positives, since attack-class prose is what a security-audit skill contains, but the gate stands. Overriding it is your call. |
 | [2026-10-16](reviews/2026-10-16.md) | @simonbeard, https://www.instagram.com/p/DebcBWilsqj/ | **Legal risk, same verdict as 2026-10-12 and 2026-10-13.** The stated purpose is cloning a commercial app's features. That breaches its terms, and Australian copyright interoperability exceptions don't cover "build your own copy". Doing this to a client's competitor would expose the agency. |
 | [2026-10-16](reviews/2026-10-16.md) | @ai.with.andrew, https://www.instagram.com/p/DefH5xHJ3Sp/ | **Unverifiable and risky.** The GitHub user `littledavey` exists but has no mimic repo, and search found nothing matching the description. The demo builds a client for a dating app's private API from a captured login session, which breaches that app's terms. |
