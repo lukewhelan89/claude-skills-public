@@ -3,10 +3,38 @@
 Each post saved to the AI folder on Instagram or TikTok, the review that judged it,
 and the verdict. The review file has the claim, how it was checked and why.
 
-174 posts.
+202 posts.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-21](reviews/2026-10-21.md) | TikTok | [@sitetusk](https://www.tiktok.com/@sitetusk/video/7696989826763050273) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | TikTok | [@samdespo](https://www.tiktok.com/@samdespo/video/7698483535568473396) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | TikTok | [@martiendejong_dev](https://www.tiktok.com/@martiendejong_dev/video/7696645043523718432) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@aitechorigin](https://www.instagram.com/p/DesBIZHIC8S) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@ashtonv.ai](https://www.instagram.com/p/DepmybBE96N) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@joelimmmmm](https://www.instagram.com/p/DepYL-0Sya9) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@jackroberts___](https://www.instagram.com/p/DepMtMyEciv) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DeowQQujtBn) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DemSWThOuIC) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@aiwithbibek](https://www.instagram.com/p/Dem-jmWFdTO) | Already covered |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@jayantcreates.ai](https://www.instagram.com/p/DelQ26DCci0) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@brennanwells__](https://www.instagram.com/p/DelAHe_utQE) | Already covered |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@ashtonv.ai](https://www.instagram.com/p/DekcyFNk1JB) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@bestapps.ai](https://www.instagram.com/p/DekS6JyFWqd) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@markkashef](https://www.instagram.com/p/DekRnydAN-O) | Already covered |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@qendresahhoti](https://www.instagram.com/p/DekGZyuBwBl) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@brennanwells__](https://www.instagram.com/p/Deidr7QOet0) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@nataindata](https://www.instagram.com/p/DehMUh_jdbK) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@easyhive.ai](https://www.instagram.com/p/Defnzj2kbfO) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@bestapps.ai](https://www.instagram.com/p/DeCKnW0DAGc) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@techskills](https://www.instagram.com/p/DeCAlxLjSFl) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@sebastianhardy_](https://www.instagram.com/p/DeAP6xxRU0H) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@syntaix.ai](https://www.instagram.com/p/DdlzMA8iXG7) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@artofthepossible.ai](https://www.instagram.com/p/DdFQ-K0AJ0b) | Already covered |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@aiexplained412](https://www.instagram.com/p/Dd3uyXDjk2P) | Worth knowing |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@julian.goldie_](https://www.instagram.com/p/DcRFrpfzyZB) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@atomiq.consulting](https://www.instagram.com/p/Dc1su9HoqIO) | Rejected |  |
+| [2026-10-21](reviews/2026-10-21.md) | Instagram | [@_erik_lazar_](https://www.instagram.com/p/DbJouhpP7N1) | Rejected |  |
 | [2026-10-17](reviews/2026-10-17.md) | Instagram | [@angus.sewell](https://www.instagram.com/p/Deh4GM9tIO-) | Rejected |  |
 | [2026-10-17](reviews/2026-10-17.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/DbEK3bustQ7) | Worth knowing |  |
 | [2026-10-17](reviews/2026-10-17.md) | Instagram | [@marc.kaz](https://www.instagram.com/p/Da-yYUrutzP) | Worth knowing |  |

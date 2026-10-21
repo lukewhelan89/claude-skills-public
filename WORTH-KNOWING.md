@@ -8,6 +8,25 @@ Grouped by who it's most relevant to; an entry can appear more than once.
 
 ## Social
 
+### Claude Shorts: long-form to short-form clip skill
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @brennanwells__, https://www.instagram.com/p/Deidr7QOet0/
+- **What it actually is:** a Claude Code skill with a 10-step pipeline. It
+  transcribes the video with faster-whisper, scores 8–12 candidate segments on
+  hook, coherence, emotion, value density and payoff, then renders them in
+  Remotion with three caption styles. It handles cursor-tracked crops for
+  screen recordings and snaps cuts to sentence boundaries. The post describes
+  it accurately.
+- **Verified:** `AgriciDaniel/claude-shorts` has 233 stars, MIT, created
+  2026-02-16, last push 2026-07-11. Its README is on screen in every frame.
+- **Takeaway:** `video-use` already cuts, captions and grades by conversation,
+  and `video-analyse` handles review. The new part is automatic clip *scoring*
+  across a long recording. That is worth a look if the video team starts
+  repurposing podcasts or webinars at volume. It's a low-star project from the
+  same author whose ads skill failed the scan today, so scan it before anyone
+  tries it.
+- **Relevant to:** video, social.
+
 ### Self-hosted replacements for paid SaaS: three listicles, mostly old news
 _From the [2026-10-16](reviews/2026-10-16.md) review._
 @sahni.ai, https://www.instagram.com/p/DefPF6EgRwL/ ·
@@ -91,6 +110,25 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 - **Relevant to:** social, leadership.
 
 ## Video
+
+### Claude Shorts: long-form to short-form clip skill
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @brennanwells__, https://www.instagram.com/p/Deidr7QOet0/
+- **What it actually is:** a Claude Code skill with a 10-step pipeline. It
+  transcribes the video with faster-whisper, scores 8–12 candidate segments on
+  hook, coherence, emotion, value density and payoff, then renders them in
+  Remotion with three caption styles. It handles cursor-tracked crops for
+  screen recordings and snaps cuts to sentence boundaries. The post describes
+  it accurately.
+- **Verified:** `AgriciDaniel/claude-shorts` has 233 stars, MIT, created
+  2026-02-16, last push 2026-07-11. Its README is on screen in every frame.
+- **Takeaway:** `video-use` already cuts, captions and grades by conversation,
+  and `video-analyse` handles review. The new part is automatic clip *scoring*
+  across a long recording. That is worth a look if the video team starts
+  repurposing podcasts or webinars at volume. It's a low-star project from the
+  same author whose ads skill failed the scan today, so scan it before anyone
+  tries it.
+- **Relevant to:** video, social.
 
 ### CLI-Anything: gives agents a text interface to desktop apps
 _From the [2026-10-16](reviews/2026-10-16.md) review._
@@ -188,6 +226,26 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 
 ## Design
 
+### Self-hostable open-source swaps for paid tools
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Sources:** @aitechorigin, https://www.instagram.com/p/DesBIZHIC8S/;
+@sebastianhardy_, https://www.instagram.com/p/DeowQQujtBn/
+- **What it actually is:** two "replace your subscriptions" carousels. The
+  first lists Langflow, Browser Use, Open WebUI, Supabase, Stirling PDF, Dify,
+  Coolify, Crawl4AI, Maxun and OpenHands. The second lists "clones" of paid
+  apps: Inbox Zero (Superhuman), Open Design / "Claude Motion", FigCraft,
+  WordCraft/GridCraft/DeckCraft, Helpin (Intercom) and MailCheap (a paid newsletter platform).
+  Two slides are news items (Epic's AI-rebuilt launcher), not tools.
+- **Verified:** `langflow-ai/langflow` 155,870 (MIT; post said 194K);
+  `browser-use/browser-use` 118,669 (MIT; post said 83.5K);
+  `elie222/inbox-zero` 12,711 (custom licence); `nexu-io/open-design` 102,811
+  (Apache-2.0, already covered by the `design` skill). The rest weren't checked
+  one by one because they are general SaaS swaps, not setup changes.
+- **Takeaway:** Supabase is already the stack. Stirling PDF is a sensible
+  local option when a client PDF shouldn't go to a random web converter. None
+  of the others are setup changes.
+- **Relevant to:** leadership, design.
+
 ### CLI-Anything: gives agents a text interface to desktop apps
 _From the [2026-10-16](reviews/2026-10-16.md) review._
 @buildwithneej, https://www.instagram.com/p/Dd9NdbFxJLo/
@@ -264,6 +322,123 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 - **Relevant to:** sales, leadership.
 
 ## Leadership
+
+### Shannon: an AI pentester for your own web apps
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @bestapps.ai, https://www.instagram.com/p/DekS6JyFWqd/
+- **What it actually is:** an autonomous pentesting agent from Keygraph. It
+  reads an app's source, picks an attack path and runs the real exploit (SQLi,
+  XSS, auth bypass, SSRF) against a running instance. It is not Claude Code,
+  and it is not a skill. The repo's own banner says "Authorized Security
+  Testing Only".
+- **Verified:** `KeygraphHQ/shannon` has 49,159 stars, licence AGPL-3.0,
+  created 2025-09-27, last push 2026-10-15. I did not check the claimed "96% on
+  a hint-free benchmark".
+- **Takeaway:** the global rules already have a pre-ship security checklist
+  (RLS, anon key only, server-side auth, rate limits). Shannon is a way to
+  *test* that checklist instead of trusting it. Point it only at a staging copy
+  you own, never production and never a client's system without written
+  sign-off, because it fires real exploits. AGPL is fine for internal use. Not
+  a manifest item.
+- **Relevant to:** leadership.
+
+### CUA: computer-use drivers and macOS/Linux sandboxes
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @aiexplained412, https://www.instagram.com/p/Dd3uyXDjk2P/
+- **What it actually is:** an open-source computer-use stack. It has drivers
+  that click and type in desktop apps (in the background where the OS allows),
+  local macOS and Linux VMs as a sandbox, and a benchmark.
+- **Verified:** `trycua/cua` has 30,439 stars, MIT, created 2025-01-31, pushed
+  2026-10-21. The post said 26.9K.
+- **Takeaway:** this setup already has the built-in browser, Claude in Chrome
+  and the computer-use skill. The useful part is the **sandbox VM**: if an
+  agent ever needs to drive a desktop app unattended, a throwaway VM is the
+  safer place to do it than Luke's own Mac. Not needed today.
+- **Relevant to:** leadership.
+
+### 0bull: Claude driving a rented real iPhone
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @ashtonv.ai, https://www.instagram.com/p/DepmybBE96N/
+- **What it actually is:** a Claude Code plugin for a paid service that rents
+  real iPhones in a data centre. The skill (`iphone-control`) screenshots,
+  reads text, taps and swipes. Each phone gets a "sticky residential IP" in a
+  city you choose. The skill refuses to type passwords or codes.
+- **Verified:** `0bull/claude-plugin` has **10 stars**, MIT, created and last
+  pushed 2026-09-29. The two install commands on screen match the repo.
+- **Takeaway:** a residential IP per rented phone is exactly the setup used
+  for phone farms and multi-account work, so don't use it near client social
+  accounts. For testing our own iOS builds, the iOS Simulator tooling in the
+  desktop app already does this with no rental.
+- **Relevant to:** leadership.
+
+### Paperclip and OpenRig: agent "companies" and teams
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Sources:** @sebastianhardy_, https://www.instagram.com/p/DemSWThOuIC/ (Paperclip);
+@bestapps.ai, https://www.instagram.com/p/DeCKnW0DAGc/ (OpenRig, Hindsight, Foreman and others)
+- **What it actually is:** Paperclip runs agents as an org chart with
+  per-agent budgets, and was covered on 2026-10-16. OpenRig turns Claude Code
+  and Codex into a persistent team that a lead agent delegates to. The same
+  carousel also lists Hindsight (agent memory), Foreman (an agent supervisor),
+  HydraDB (shown as "Open Glean") and Repolyze (repo analysis).
+- **Verified:** `paperclipai/paperclip` 105,245 stars (MIT, post said 91,000);
+  `mvschwarz/openrig` 7,996 (Apache-2.0, created 2026-04-01);
+  `vectorize-io/hindsight` 52,026 (MIT); `thruwire/foreman` 779 (MIT, created
+  2026-09-17); `MxCorpIn/Repolyze` 242.
+- **Takeaway:** GSD already does lead-agent delegation, and the internal tools
+  here are small. None of these earn a place yet. OpenRig needs the Codex CLI,
+  which is not installed here.
+- **Relevant to:** leadership.
+
+### CLI-Anything, Orca and REA: this week's trending agent repos
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @qendresahhoti, https://www.instagram.com/p/DekGZyuBwBl/
+- **What it actually is:** five trending repos. REA, an agent that reverse
+  engineers apps and binaries (`npx rea-agents setup`). CLI-Anything, covered
+  2026-10-16. Orca, which runs several coding agents on one task in separate
+  worktrees, covered 2026-10-14. The HeyGen/HyperFrames HTML-to-video engine,
+  covered several times since August. And "Orbital", a project-level context
+  file shared across agents (about 350 stars, per the post).
+- **Verified:** `HKUDS/CLI-Anything` 55,668 (Apache-2.0); `stablyai/orca`
+  99,715 (MIT). REA was identified in an earlier report. I couldn't find
+  Orbital's repo by search, and its URL is unreadable in the frames.
+- **Takeaway:** nothing new to act on. The Orbital idea (one shared state,
+  decisions and lessons file that every agent reads) is roughly what
+  CLAUDE.md, `.planning/` and memory already do here.
+- **Relevant to:** leadership.
+
+### Self-hostable open-source swaps for paid tools
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Sources:** @aitechorigin, https://www.instagram.com/p/DesBIZHIC8S/;
+@sebastianhardy_, https://www.instagram.com/p/DeowQQujtBn/
+- **What it actually is:** two "replace your subscriptions" carousels. The
+  first lists Langflow, Browser Use, Open WebUI, Supabase, Stirling PDF, Dify,
+  Coolify, Crawl4AI, Maxun and OpenHands. The second lists "clones" of paid
+  apps: Inbox Zero (Superhuman), Open Design / "Claude Motion", FigCraft,
+  WordCraft/GridCraft/DeckCraft, Helpin (Intercom) and MailCheap (a paid newsletter platform).
+  Two slides are news items (Epic's AI-rebuilt launcher), not tools.
+- **Verified:** `langflow-ai/langflow` 155,870 (MIT; post said 194K);
+  `browser-use/browser-use` 118,669 (MIT; post said 83.5K);
+  `elie222/inbox-zero` 12,711 (custom licence); `nexu-io/open-design` 102,811
+  (Apache-2.0, already covered by the `design` skill). The rest weren't checked
+  one by one because they are general SaaS swaps, not setup changes.
+- **Takeaway:** Supabase is already the stack. Stirling PDF is a sensible
+  local option when a client PDF shouldn't go to a random web converter. None
+  of the others are setup changes.
+- **Relevant to:** leadership, design.
+
+### 111 production-engineering terms for vibe coders
+_From the [2026-10-21](reviews/2026-10-21.md) review._
+**Source:** @nataindata, https://www.instagram.com/p/DehMUh_jdbK/
+- **What it actually is:** a handwritten list of 111 concepts, from rate
+  limiting, idempotency and N+1 queries to RLS-adjacent topics (secrets
+  management, CSRF, SQL injection, XSS, SSRF), migrations, rollbacks and
+  postmortems.
+- **Verified:** it's a list of concepts, so there's nothing to verify.
+- **Takeaway:** the global pre-ship checklist already covers the ones that
+  bite small Supabase/Vercel tools (RLS, rate limits, server-side auth,
+  escaping, parameterised queries). Useful as a reading list for someone new
+  to shipping, but not a rule to add.
+- **Relevant to:** leadership.
 
 ### SkillOpt: trains a skill file against a benchmark
 _From the [2026-10-17](reviews/2026-10-17.md) review._
