@@ -3,10 +3,11 @@
 Each post saved to the AI folder on Instagram or TikTok, the review that judged it,
 and the verdict. The review file has the claim, how it was checked and why.
 
-202 posts.
+203 posts.
 
 | Reviewed | Platform | Post | Verdict | Re-surfaced |
 |---|---|---|---|---|
+| [2026-10-22](reviews/2026-10-22.md) | Instagram | [@leo.synthes](https://www.instagram.com/p/DesTTFqNgkm) | Worth knowing |  |
 | [2026-10-21](reviews/2026-10-21.md) | TikTok | [@sitetusk](https://www.tiktok.com/@sitetusk/video/7696989826763050273) | Rejected |  |
 | [2026-10-21](reviews/2026-10-21.md) | TikTok | [@samdespo](https://www.tiktok.com/@samdespo/video/7698483535568473396) | Rejected |  |
 | [2026-10-21](reviews/2026-10-21.md) | TikTok | [@martiendejong_dev](https://www.tiktok.com/@martiendejong_dev/video/7696645043523718432) | Rejected |  |

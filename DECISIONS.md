@@ -1,6 +1,6 @@
 # Decisions
 
-From `skills.json`, generated 2026-10-21. Every tool is checked against the GitHub API and scanned with NVIDIA SkillSpector before install.
+From `skills.json`, generated 2026-10-22. Every tool is checked against the GitHub API and scanned with NVIDIA SkillSpector before install.
 
 ## Approved and installed
 

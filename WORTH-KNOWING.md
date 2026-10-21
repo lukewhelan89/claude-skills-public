@@ -226,6 +226,25 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 
 ## Design
 
+### xtool: build and install iOS apps without Xcode
+_From the [2026-10-22](reviews/2026-10-22.md) review._
+**Source:** @leo.synthes, https://www.instagram.com/p/DesTTFqNgkm/
+- **What it actually is:** a cross-platform Xcode replacement. It builds a
+  SwiftPM package into an iOS app, signs it, and installs it on a device from
+  the command line, on Linux, Windows (WSL) or macOS. The post frames it as
+  "Claude Code can now build entire iPhone apps", which is wrong. Nothing
+  changed in Claude Code. xtool is just a CLI, and Claude Code can drive any
+  CLI. On a Mac, Claude Code can already drive `xcodebuild` and the iOS
+  Simulator the same way, so xtool adds nothing there.
+- **Verified:** `xtool-org/xtool` has 13,299 stars, licence MIT, created
+  2024-11-17, last push 2026-10-21, not archived. The post's own caveat holds:
+  it needs Apple's SDK and an Apple developer account sign-in before it works.
+- **Takeaway:** only useful when you want to build iOS apps on a machine
+  without Xcode (Linux or Windows). If you're on a Mac, use Xcode or the
+  simulator tooling you already have. Nothing to install here, because this
+  setup is web-first (Next.js on Vercel) with no native iOS project.
+- **Relevant to:** design (quick native prototypes), leadership.
+
 ### Self-hostable open-source swaps for paid tools
 _From the [2026-10-21](reviews/2026-10-21.md) review._
 **Sources:** @aitechorigin, https://www.instagram.com/p/DesBIZHIC8S/;
@@ -322,6 +341,25 @@ _From the [2026-10-13-resort](reviews/2026-10-13-resort.md) review._
 - **Relevant to:** sales, leadership.
 
 ## Leadership
+
+### xtool: build and install iOS apps without Xcode
+_From the [2026-10-22](reviews/2026-10-22.md) review._
+**Source:** @leo.synthes, https://www.instagram.com/p/DesTTFqNgkm/
+- **What it actually is:** a cross-platform Xcode replacement. It builds a
+  SwiftPM package into an iOS app, signs it, and installs it on a device from
+  the command line, on Linux, Windows (WSL) or macOS. The post frames it as
+  "Claude Code can now build entire iPhone apps", which is wrong. Nothing
+  changed in Claude Code. xtool is just a CLI, and Claude Code can drive any
+  CLI. On a Mac, Claude Code can already drive `xcodebuild` and the iOS
+  Simulator the same way, so xtool adds nothing there.
+- **Verified:** `xtool-org/xtool` has 13,299 stars, licence MIT, created
+  2024-11-17, last push 2026-10-21, not archived. The post's own caveat holds:
+  it needs Apple's SDK and an Apple developer account sign-in before it works.
+- **Takeaway:** only useful when you want to build iOS apps on a machine
+  without Xcode (Linux or Windows). If you're on a Mac, use Xcode or the
+  simulator tooling you already have. Nothing to install here, because this
+  setup is web-first (Next.js on Vercel) with no native iOS project.
+- **Relevant to:** design (quick native prototypes), leadership.
 
 ### Shannon: an AI pentester for your own web apps
 _From the [2026-10-21](reviews/2026-10-21.md) review._
